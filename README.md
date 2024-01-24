@@ -1,0 +1,2 @@
+# gymios
+ expo app ios
